@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sai-Pratham05](https://github.com/Sai-Pratham05)
 
-- 💬 Ask me about **JavaScript, CSS and Open Source contribution**
+- 💬 Ask me about **JavaScript, React and Open Source contribution**
 
 - 📫 How to reach me **saipratham007@gmail.com**
 
