@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-pratham05" alt="sai-pratham05" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@sai_pratham05" target="blank"><img src="https://img.shields.io/twitter/follow/@sai_pratham05?logo=twitter&style=for-the-badge" alt="@sai_pratham05" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sai_pratham05" target="blank"><img src="https://img.shields.io/twitter/follow/@sai_pratham05?logo=twitter&style=for-the-badge" alt="@sai_pratham05" /></a> </p>
 
 - 🔭 I’m currently working on [LocalReadme](https://github.com/Sai-Pratham05/LocalReadme)
 
