@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sai_pratham05" target="blank"><img src="https://img.shields.io/twitter/follow/@sai_pratham05?logo=twitter&style=for-the-badge" alt="@sai_pratham05" /></a> </p>
 
-- 🔭 I’m currently working on [LocalReadme](https://github.com/Sai-Pratham05/LocalReadme)
+- 🔭 I’m currently working on [LocalReadme](https://github.com/Sai-Pratham05/neo-ui-lib)
 
-- 🌱 I’m currently learning **React and bunch of backend**
+- 🌱 I’m currently learning **MCP and bunch of backend**
 
-- 👯 I’m looking to collaborate on [Word-Master](https://github.com/Sai-Pratham05/word-master)
+- 👯 I’m looking to collaborate on [Word-Master](https://github.com/Sai-Pratham05/code-mania)
 
 - 🤝 I’m looking for help with **Open Source Contributions(GSOC, LFX)**
 
