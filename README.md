@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🍥, I'm Sai Pratham K H</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 
 # 💫 About Me:
