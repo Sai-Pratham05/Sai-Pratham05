@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-👨‍💻 All of my projects are available at https://github.com/Sai-Pratham05<br>📫 How to reach me saipratham007@gmail.com<br>🌱 I’m currently learning : MCP and AI-Agents<br>💬 Ask me about : JavaScript, React and Open Source contribution<br>⚡ Fun fact : I am learning Japanese
+👨‍💻 All of my projects are available at https://github.com/Sai-Pratham05<br>📫 How to reach me saipratham007@gmail.com<br>🌱 I’m currently learning : MCP and AI-Agents<br>💬 Ask me about : JavaScript, React and Building UI components<br>⚡ Fun fact : I am learning Japanese
 
 
 ## 🌐 Socials:
